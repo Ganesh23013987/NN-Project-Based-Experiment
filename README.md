@@ -27,6 +27,8 @@ If the model is not performing well, experiment with different architectures, re
 ## Visualization:
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
 
+NAME:   GANESH D
+REG.NO: 212223240035
 # Program:
 ```
 import numpy as np
